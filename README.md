@@ -121,7 +121,3 @@ python-dotenv
 ```
 
 ---
-
-
-
-This project is licensed under the MIT License.
