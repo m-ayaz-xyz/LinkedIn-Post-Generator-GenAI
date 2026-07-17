@@ -20,7 +20,7 @@ Generate professional, engaging, and human-like LinkedIn posts using **LangChain
 
 ## 🎥 Demo
 
-<video src="assets/AI-LinkedIn-Post-Generator_Demo.mp4" controls></video>
+![video](https://github.com/user-attachments/assets/3afb5d4b-fc8c-4498-b7ea-5fb49ddad98f)
 
 ---
 
