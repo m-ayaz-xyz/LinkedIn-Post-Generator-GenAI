@@ -18,9 +18,9 @@ Generate professional, engaging, and human-like LinkedIn posts using **LangChain
 
 ---
 
-## 🎥 Demo
+## Demo Video
 
-![video](https://github.com/user-attachments/assets/3afb5d4b-fc8c-4498-b7ea-5fb49ddad98f)
+https://github.com/user-attachments/assets/3afb5d4b-fc8c-4498-b7ea-5fb49ddad98f
 
 ---
 
